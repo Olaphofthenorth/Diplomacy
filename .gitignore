@@ -1,0 +1,10 @@
+*~
+.DS_Store
+.buildpath
+.project
+.settings
+.externalToolBuilders
+.metadata
+
+Diplomacy/Temp/
+Diplomacy/Library/
